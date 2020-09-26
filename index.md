@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 37131 and 35511 (introduction to) linear dynamical systems, or, calculus and linear algebra 1 @uts
 
 You can use the [editor on GitHub](https://github.com/melderau/math1.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
